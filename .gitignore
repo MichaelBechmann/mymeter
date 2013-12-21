@@ -1,0 +1,10 @@
+*.pyc
+.*
+*.log
+!.gitignore
+/cron
+/errors
+/private
+/sessions
+/uploads
+
